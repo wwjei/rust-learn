@@ -1,0 +1,8 @@
+[package]
+
+name="hello world"
+version="0.0.1"
+authors =["wwjei wwjei@qq.com"]
+
+[[bin]]
+name="hello_world"
